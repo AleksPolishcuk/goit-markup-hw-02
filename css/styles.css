@@ -11,6 +11,7 @@ ol {
 a {
   text-decoration: none;
 }
+/* Логотип */
 .logo {
   color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
@@ -25,7 +26,7 @@ a {
 .header-logo .logo-part {
   color: #2e2f42;
 }
-
+/* Навігація */
 .nav-link {
   color: #2e2f42;
   font-weight: 500;
@@ -52,7 +53,7 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
-
+/* секція 1 Кнопка */
 .hero-section {
   background-color: #2e2f42;
 }
@@ -60,7 +61,7 @@ a {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.1;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -82,13 +83,13 @@ a {
   background-color: #404bbf;
 }
 
-/* прихований заголовок*/
+/* прихований заголовок */
 .solutions {
   clip: rect(0, 0, 0, 0);
   margin: -1px;
   overflow: hidden;
 }
-
+/* Секція 2 */
 .solutions-title {
   color: #2e2f42;
   font-weight: 500;
@@ -105,7 +106,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
+/* Секція 3 */
 .team {
   background-color: #f4f4fd;
 }
@@ -117,7 +118,7 @@ a {
 .title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
@@ -139,7 +140,7 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+/* Секція 4 */
 .portfolio-list {
   background-color: #ffffff;
 }
