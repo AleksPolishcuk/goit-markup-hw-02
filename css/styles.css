@@ -107,14 +107,14 @@ a {
   letter-spacing: 0.02em;
 }
 /* Секція 3 */
+
 .team {
   background-color: #f4f4fd;
 }
 
-.team {
+.team-item {
   background-color: #ffffff;
 }
-
 .title {
   font-weight: 700;
   font-size: 36px;
