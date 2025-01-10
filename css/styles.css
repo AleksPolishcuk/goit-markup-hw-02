@@ -16,7 +16,7 @@ a {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -71,6 +71,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
   color: #fff;
   background-color: #4d5ae5;
 }
@@ -93,6 +94,7 @@ a {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .solutions-text {
@@ -107,12 +109,17 @@ a {
   background-color: #f4f4fd;
 }
 
+.team-list {
+  background-color: #ffffff;
+}
+
 .title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
@@ -130,6 +137,10 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.portfolio-list {
+  background-color: #ffffff;
 }
 
 .team-name {
